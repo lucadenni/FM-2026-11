@@ -1,0 +1,9 @@
+{
+  "name": "Dieta Federica",
+  "short_name": "Dieta Federica",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8fa",
+  "theme_color": "#2878b8",
+  "lang": "it"
+}
